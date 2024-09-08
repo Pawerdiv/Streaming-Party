@@ -9,3 +9,6 @@ Support for Multiple Streaming Sites: Compatible with various popular streaming 
 WebSocket Communication: Utilizes WebSockets for real-time communication between users.
 Port Forwarding with ngrok: Enables easy connection setup using ngrok for port forwarding.
 Browser Automation with Selenium: Controls browser actions to manage video playback seamlessly.
+
+Warning
+This application is not longer maintained and it could not work as intended.
